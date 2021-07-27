@@ -80,6 +80,8 @@ In this section, you will build a named entity recognition model for both coins 
 ## Resources
 
 [Vader Sentiment Analysis](http://www.nltk.org/howto/sentiment.html)
+
+
 [Instalation guide](../nlp-env-install-guide.md)
 
 
