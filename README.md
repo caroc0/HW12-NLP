@@ -31,11 +31,11 @@ Use the [newsapi](https://newsapi.org/) to pull the latest news articles for Bit
 Use descriptive statistics to answer the following questions:
 
 > Which coin had the highest mean positive score?
->
+> Bitcoin
 > Which coin had the highest negative score?
->
+> Bitcoin
 > Which coin had the highest positive score?
-
+>Bitcoin
 ---
 
 ### 2 - Natural Language Processing
