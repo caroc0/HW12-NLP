@@ -8,7 +8,7 @@ There's been a lot of hype in the news lately about cryptocurrency, so you want 
 
 In this assignment, you will apply natural language processing to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum. You will also apply fundamental NLP techniques to better understand the other factors involved with the coin prices such as common words and phrases and organizations and entities mentioned in the articles.
 
-Complete the following tasks:
+Content;
 
 1. [Sentiment Analysis](#1---Sentiment-Analysis)
 2. [Natural Language Processing](#2---Natural-Language-Processing)
@@ -18,13 +18,11 @@ Complete the following tasks:
 
 ## Files
 
-[Starter Notebook](Starter_Code/crypto_sentiment.ipynb)
+[Code](Starter_Code/crypto_sentiment.ipynb)
 
 ---
 
-## Instructions
 
-----
 
 ### 1 - Sentiment Analysis
 
@@ -83,22 +81,8 @@ In this section, you will build a named entity recognition model for both coins 
 
 [Vader Sentiment Analysis](http://www.nltk.org/howto/sentiment.html)
 
----
 
-## Hints and Considerations
-
-The free developer version of the News API limits the total daily requests, so be careful not to exceed the free limits.
 
 ---
 
-## Submission
-
-* Use the starter Jupyter Notebook provided to conduct the NLP analysis and host the notebook in a GitHub repository.
-
-* In your GitHub repository, include a ReadMe file that uses Markdown to summarize your homework.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
-
----
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+"© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved."
