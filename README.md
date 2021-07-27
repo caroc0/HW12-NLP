@@ -1,6 +1,18 @@
-# Unit 12—Tales from the Crypto
+# HW 12—NLP
 
 ![Stock Sentiment](Images/sentimental.jpeg)
+
+---
+## Resources
+
+[Vader Sentiment Analysis](http://www.nltk.org/howto/sentiment.html)
+
+
+[Instalation guide](https://github.com/caroc0/HW12-NLP/blob/main/nlp-env-install-guide.md)
+
+
+---
+
 
 ## Background
 
@@ -77,14 +89,5 @@ In this section, you will build a named entity recognition model for both coins 
 
 ---
 
-## Resources
-
-[Vader Sentiment Analysis](http://www.nltk.org/howto/sentiment.html)
-
-
-[Instalation guide](https://github.com/caroc0/HW12-NLP/blob/main/nlp-env-install-guide.md)
-
-
----
 
 "© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved."
